@@ -14,5 +14,5 @@
 * python/flask
 
 
-Author: Konstantine Dvalishvili
+Author: Konstantine Dvalishvili </br>
 Email: konstantine.dvalishvil@gmail.com
