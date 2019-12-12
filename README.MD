@@ -3,7 +3,7 @@
 ##### To run the app do the following:
 1. Install `python 3`
 2. Run command: `pip install -r requirements.txt`
-3. Run command: `python app.py`
+3. Run command: `flask run`
 
 ##### To test the app do the following:
 1. Place a file in the folder `files`
